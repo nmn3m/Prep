@@ -4,7 +4,7 @@
 - [ ]  Implement Dynamic-array data structure
 - [X]  Implement Stack data structure
 - [X]  Implement Queue data structure
-- [ ]  Create and manipulate Graph structures
+- [X]  Implement Graph structures {BFS, DFS}
 - [ ]  Implement Linked List and its operations
 - [ ]  Implement Hash Map and handle collisions
 - [ ]  Implement Heap (priority queue) and its operations
