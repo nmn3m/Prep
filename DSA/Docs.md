@@ -2,8 +2,8 @@
 
 ### Data Structures
 - [ ]  Implement Dynamic-array data structure
-- [ ]  Implement Stack data structure
-- [ ]  Implement Queue data structure
+- [X]  Implement Stack data structure
+- [X]  Implement Queue data structure
 - [ ]  Create and manipulate Graph structures
 - [ ]  Implement Linked List and its operations
 - [ ]  Implement Hash Map and handle collisions
